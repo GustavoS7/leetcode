@@ -1,4 +1,4 @@
-package com.gustavo.leetcode.findtheindexofthefirstoccurrenceinastring;
+package ex28_findtheindexofthefirstoccurrenceinastring;
 
 public class Solution {
   public static int strStr(String haystack, String needle) {

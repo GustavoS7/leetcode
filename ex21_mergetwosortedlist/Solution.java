@@ -1,4 +1,4 @@
-package com.gustavo.leetcode.mergetwosortedlist;
+package ex21_mergetwosortedlist;
 
 public class Solution {
   public ListNode mergeTwoLists(ListNode list1, ListNode list2) {

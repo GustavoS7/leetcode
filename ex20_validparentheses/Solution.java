@@ -1,4 +1,4 @@
-package com.gustavo.leetcode.validparentheses;
+package ex20_validparentheses;
 
 import java.util.HashMap;
 import java.util.Map;

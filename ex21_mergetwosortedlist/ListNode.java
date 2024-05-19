@@ -1,4 +1,4 @@
-package com.gustavo.leetcode.mergetwosortedlist;
+package ex21_mergetwosortedlist;
 
 public class ListNode {
   int val;

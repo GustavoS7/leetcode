@@ -1,4 +1,4 @@
-package com.gustavo.leetcode.longestsubstringwithoutrepeatingcharacters;
+package ex03_longestsubstringwithoutrepeatingcharacters;
 
 import java.util.HashMap;
 import java.util.Map;

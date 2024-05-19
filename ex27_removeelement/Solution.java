@@ -1,4 +1,4 @@
-package com.gustavo.leetcode.removeelement;
+package ex27_removeelement;
 
 public class Solution {
   public static int removeElement(int[] nums, int val) {

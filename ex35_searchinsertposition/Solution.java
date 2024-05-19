@@ -1,4 +1,4 @@
-package com.gustavo.leetcode.searchinsertposition;
+package ex35_searchinsertposition;
 
 public class Solution {
   public int searchInsert(int[] nums, int target) {

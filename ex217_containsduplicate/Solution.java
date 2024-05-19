@@ -1,4 +1,4 @@
-package com.gustavo.leetcode.containsduplicate;
+package ex217_containsduplicate;
 
 import java.util.HashSet;
 

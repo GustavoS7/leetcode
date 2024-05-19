@@ -1,4 +1,4 @@
-package com.gustavo.leetcode.addtwonumbers;
+package ex02_addtwonumbers;
 
 public class ListNode {
   int val;

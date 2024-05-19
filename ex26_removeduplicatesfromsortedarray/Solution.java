@@ -1,4 +1,4 @@
-package com.gustavo.leetcode.removeduplicatesfromsortedarray;
+package ex26_removeduplicatesfromsortedarray;
 
 public class Solution {
   public static int removeDuplicates(int[] nums) {
