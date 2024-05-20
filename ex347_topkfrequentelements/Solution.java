@@ -11,8 +11,6 @@ public class Solution {
       dummy.put(num, dummy.getOrDefault(num, 0) + 1);
     }
 
-    
-
     System.out.println(dummy);
 
     return new int[]{1,2,3};
